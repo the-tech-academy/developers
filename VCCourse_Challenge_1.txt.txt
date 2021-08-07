@@ -1,0 +1,1 @@
+Open up a text file and write one line of text. Save this file as “VCCourse_Challenge_1.txt.”
