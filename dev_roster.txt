@@ -1,14 +1,1 @@
-
--The Tech Academy - Developer Team Roster
--
--Please type your first name and last initial on the proceeding lines...
-
-Samme Q.
-Peter R.
-Max J.
-John V.
-Andrew B.
-Aaron M.
-Joshua B.
-Dustin S.
-Kenny L.
+this is my new first file for my remote repository
