@@ -1,4 +1,4 @@
-https://github.com/the-tech-academy/developers.git
+ 
 -The Tech Academy - Developer Team Roster
 -Ghebrehiwet K .
 -Please type your first name and last initial on the proceeding lines...
