@@ -1,6 +1,6 @@
  
--The Tech Academy - Developer Team Roster
--Ghebrehiwet K .
+the tech academy  Developer Team Roster
+-Ghebrehiwet Kidane . 
 -Please type your first name and last initial on the proceeding lines...
 
 Samme Q.
@@ -11,4 +11,4 @@ Andrew B.
 Aaron M.
 Joshua B.
 Dustin S.
-Ghebrehiwet K.
+Ghebrehiwet Kidane.
