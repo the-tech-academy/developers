@@ -7,6 +7,24 @@
     <script src="Basic_Javascript_1.js"></script>
 </head>
 <body>
-    
+	<h1><button onclick="My_First_Function()">
+		Click Here for Itinerary!</button></h1>
+	<button onclick="My_Second_Function()">
+		Click Here for Meal Plan! </button>
+	<p id="Ireland"></p>
+	<p id="MealPlan"></p>
+<script>
+	function My_First_Function() {
+		var String = "Set your Itinerary!";
+		var result = String.fontcolor("purple");
+		document.getElementById("Ireland").innerHTML = 
+		result;}
+		function My_Second_Function() {
+		var String = "Choose Your Meal Plan";
+		var result = String.fontcolor("#FFA07A");
+		document.getElementById("MealPlan").innerHTML = 
+		result;
+		}
+</script>
 </body>
 </html>
