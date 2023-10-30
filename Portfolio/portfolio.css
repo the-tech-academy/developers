@@ -207,9 +207,9 @@ footer {
 
 /* Navbar hover effects */
 .Navbar a:hover {
-    background-color: #f4f4f4;
+    background-color: #eee1e1;
     /* Defines the background color that will display when you hover over the link */
-    color: black;
+    color: rgb(19, 18, 18);
     /* This defines the font color that will display when navbar a elements are hovered over */
     font-weight: bold;
     /* This makes the text on the navbar bold when hovered over */
