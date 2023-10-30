@@ -1,8 +1,9 @@
 /***** GENERAL STYLING *****/
 /* Body */
 body {
-    margin: 0%
+    margin: 0%;
         /* This ensures our site displays all the way to the edge of the browser screen */
+    background-color: #008080;
 }
 
 /* Heading 1 elements */
@@ -31,6 +32,7 @@ h1:hover {
 /* Quotation elements */
 q {
     font-style: italic;
+    font-size: larger;
     /* This makes the quote italicized */
 }
 
@@ -72,7 +74,7 @@ p:hover {
 
 /* Anchor elements */
 a {
-    color: seagreen;
+    color: #a4f7d8;
     /* This ensures all links are ba color*/
 }
 
@@ -117,7 +119,7 @@ img:hover {
 footer {
     padding: 2%;
     /* This gives the footer padding that is equal to 2% of the width of the element's area */
-    background-color: antiquewhite;
+    background-color: #008080;
 }
 
 /***** END OF GENERAL STYLING *****/
@@ -126,7 +128,7 @@ footer {
 .Navbar {
     overflow: hidden;
     /* This ensures that any content that overflows beyond the boundary of our nav bar is not displayed */
-    background-color: rebeccapurple;
+    background-color: #8fafa5;
     /* This colors the navbar black */
     position: fixed;
     /* This keeps the navbar at the top of the screen as we scroll */
@@ -207,7 +209,7 @@ footer {
 
 /* Navbar hover effects */
 .Navbar a:hover {
-    background-color: #eee1e1;
+    background-color: #bf6000;
     /* Defines the background color that will display when you hover over the link */
     color: rgb(19, 18, 18);
     /* This defines the font color that will display when navbar a elements are hovered over */
@@ -218,7 +220,7 @@ footer {
 /* Navbar home button */
 .Navbar a.active {
     /* This targets the a element on the navbar with the "active" class */
-    background-color: darkgray;
+    background-color: #626262;
 }
 
 /***** END OF NAVBAR STYLING *****/
@@ -237,4 +239,11 @@ footer {
     #Typing_Video {
         display: none;
     }
+}
+/*Texts over vid*/
+.Video_Text {
+    font-weight: bolder;
+    background: rgba(0, 0, 0, 0.5);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #98b8b7;
 }
