@@ -230,8 +230,10 @@ footer {
 #Typing_Video {
     position: fixed;
     right: 0;
-    bottom: 0;
-    min-width: 100%;
+    bottom: 95px;
+    padding-right: 300px;
+    padding-top: -300px;
+    min-width:100%;
     z-index: -1;  /*places video behind the other elements on the page*/
 }
 /*Screens that are 576px and smaller will not display background vid*/
@@ -353,4 +355,4 @@ form {
     padding: 10px; /* Adds padding to the contact form */
     font-family: "Trebuchet MS", Optima;
 }
-/***** END OF CONTACT FORM STYLING *****/    
+/***** END OF CONTACT FORM STYLING *****/
