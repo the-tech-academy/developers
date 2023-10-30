@@ -222,3 +222,19 @@ footer {
 }
 
 /***** END OF NAVBAR STYLING *****/
+
+/*Video Styling*/
+/*Formatting*/
+#Typing_Video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    z-index: -1;  /*places video behind the other elements on the page*/
+}
+/*Screens that are 576px and smaller will not display background vid*/
+@media screen and (max-width: 576px) {
+    #Typing_Video {
+        display: none;
+    }
+}
