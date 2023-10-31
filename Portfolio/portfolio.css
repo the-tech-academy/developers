@@ -230,9 +230,8 @@ footer {
 #Typing_Video {
     position: fixed;
     right: 0;
-    bottom: 95px;
-    padding-right: 300px;
-    padding-top: -300px;
+    bottom: 320px;
+    padding-right: 100px;
     min-width:100%;
     z-index: -1;  /*places video behind the other elements on the page*/
 }
