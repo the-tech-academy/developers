@@ -1,0 +1,5 @@
+table{border:2px solid silver;}
+th,td{text-align:left;}
+td:hover{background-color:grey;color:black;}
+tr,th{background-color:grey;color:cornsilk;}
+tr,td{background-color:purple;color:white;}
